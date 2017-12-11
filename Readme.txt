@@ -1,1 +1,0 @@
-Open the 'index.html' page in a browser and watch it be responsive.
